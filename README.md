@@ -1,6 +1,6 @@
 # Calculator Java Application
 
-Java calculator developed by myself for 2nd year Object-Oriented Programming course.
+Simple Java calculator application developed by myself.
 
 ## Installation
 
