@@ -1,5 +1,5 @@
 # Calculator Java Application
-Java calculator application developed by myself in one file.
+Java calculator application developed in one file.
 
 ## Installation
 
