@@ -1,5 +1,5 @@
 # Calculator Java Application
-Java calculator application developed in one file.
+Multiline calculator application with clear all/clear last buttons. Created all in one java file.
 
 ## Installation
 
